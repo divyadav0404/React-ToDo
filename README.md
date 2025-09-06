@@ -3,4 +3,4 @@
 
 well, there are many other files in i too...as when I was learning react in that file only , I made this project so before forking or cloning , keep that in mind..Thanks
 
-Looking forward to many more projects in web dev domain..
+Looking forward to many more projects in web dev domain.
